@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a language agnostic software developer. Currently I work with JavaScript, Go and Flutter.
+
 <!--
 **taylankasap/taylankasap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
